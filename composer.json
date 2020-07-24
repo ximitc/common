@@ -2,8 +2,9 @@
     "name": "niubi/common",
     "description": "TencentCloudApi php sdk common",
     "type": "library",
-    "homepage": "https://github.com/ximitc/niubi-php-sdk",
+    "homepage": "https://github.com/ximitc/common",
     "license": "Apache-2.0",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "test",
@@ -18,7 +19,7 @@
         "guzzlehttp/psr7": "^1.4"
     },
     "autoload": {
-        "classmap": [
+	"classmap": [
             "src/QcloudApi/QcloudApi.php"
         ],
         "psr-4": {
