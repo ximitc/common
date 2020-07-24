@@ -1,6 +1,6 @@
 {
-    "name": "niubi/niubi-sdk-php",
-    "description": "TencentCloudApi php sdk",
+    "name": "niubi/common",
+    "description": "TencentCloudApi php sdk common",
     "type": "library",
     "homepage": "https://github.com/ximitc/niubi-php-sdk",
     "license": "Apache-2.0",
