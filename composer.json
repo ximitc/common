@@ -4,12 +4,6 @@
     "type": "library",
     "homepage": "https://github.com/ximitc/common",
     "license": "Apache-2.0",
-    "minimum-stability": "stable",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
-    },
     "authors": [
         {
             "name": "test",
